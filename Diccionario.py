@@ -17,3 +17,4 @@ if "telefono" not in informacion_personal:
 del informacion_personal["edad"]
 # Imprimir el diccionario final
 print("Diccionario final:", informacion_personal)
+git
